@@ -1,3 +1,4 @@
+# mobilenetvlad
 # Hierarchical Localization
 
 :warning: :warning: **For a clean and research-friendly implementation of Hierarchical Localization, please refer to our CVPR 2019 paper at [ethz-asl/hfnet](https://github.com/ethz-asl/hfnet).** :warning: :warning:
